@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account>
+  <id type="integer">795929</id>
+  <is-active type="boolean">true</is-active>
+  <name>myHRcounsel</name>
+  <subdomain>myhrcounsel</subdomain>
+  <time-zone>Central Time (US &amp; Canada)</time-zone>
+  <created-at type="dateTime">2015-08-18T09:00:08-05:00</created-at>
+  <owner-id type="integer">1500140787</owner-id>
+  <host-mapping nil="true"/>
+  <updated-at type="dateTime">2018-10-05T08:14:51-05:00</updated-at>
+  <locale-id type="integer">1</locale-id>
+  <sandbox-master-id type="integer" nil="true"/>
+  <is-serviceable type="boolean">true</is-serviceable>
+  <help-desk-size>25-49</help-desk-size>
+  <shard-id type="integer">19118</shard-id>
+  <lock-state type="integer">0</lock-state>
+  <route-id type="integer">694022</route-id>
+  <deleted-at type="dateTime" nil="true"/>
+  <account-group-id type="integer" nil="true"/>
+  <dnsttl type="integer" nil="true"/>
+  <multiproduct type="boolean">false</multiproduct>
+  <billing-id>2c92a0f84f8d012c014fb2e055090a48</billing-id>
+  <state nil="true"/>
+</account>

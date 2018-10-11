@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groups report_date="20181005">
+<group>
+  <id type="integer">26289837</id>
+  <is-active type="boolean">true</is-active>
+  <name>Support</name>
+  <updated-at type="dateTime">2015-08-18T09:00:52-05:00</updated-at>
+  <created-at type="dateTime">2015-08-18T09:00:08-05:00</created-at>
+</group>
+<group>
+  <id type="integer">26750117</id>
+  <is-active type="boolean">false</is-active>
+  <name>Help</name>
+  <updated-at type="dateTime">2015-09-29T14:33:29-05:00</updated-at>
+  <created-at type="dateTime">2015-09-24T14:36:14-05:00</created-at>
+</group>
+<group>
+  <id type="integer">26833138</id>
+  <is-active type="boolean">true</is-active>
+  <name>Admin</name>
+  <updated-at type="dateTime">2015-09-29T10:01:48-05:00</updated-at>
+  <created-at type="dateTime">2015-09-29T10:01:48-05:00</created-at>
+</group>
+<group>
+  <id type="integer">27640528</id>
+  <is-active type="boolean">true</is-active>
+  <name>Ticket Traffic Control</name>
+  <updated-at type="dateTime">2015-11-17T08:32:21-06:00</updated-at>
+  <created-at type="dateTime">2015-11-17T08:32:21-06:00</created-at>
+</group>
+</groups>
